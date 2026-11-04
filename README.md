@@ -1,42 +1,50 @@
-# 🚴‍♂️⚽ Welcome to My GitHub!
+# Welcome to my GitHub
 
-## Hi there, I'm Roger! 👋
+Software Engineering graduate from Switzerland with a focus on backend, cloud and DevOps.
+I am looking for a position as **application developer (60–100 %)**.
 
-I'm a passionate **Software Engineering Student** from **Switzerland** 🇨🇭.
-When I'm not writing code or studying for my Bachelor's degree, you'll find me on the court playing **Cycleball** (yes, that's soccer on a bicycle! ❤️) or training for my next athletic challenge.
+Away from the keyboard I play Cycleball, which is soccer on a bicycle.
 
-### 👨‍💻 Tech Stack & Skills
+## Tech Stack
 
-I love building efficient backends and interactive applications.
-**`SELECT * FROM SQL;` ❤️**
+| Area | Skills |
+|---|---|
+| Languages | Java, Python, C# (Unity), SQL, HTML/CSS |
+| Backend and web | Jakarta EE (JSF, CDI, JPA/Hibernate), Spring Boot, Flask, REST, Bootstrap |
+| Mobile | Android (Java, Material 3) |
+| Cloud and DevOps | Google Cloud (Cloud Run, Firestore, Firebase Auth, Vertex AI), Terraform, Docker, GitHub Actions |
+| Quality and security | SAST and DAST in CI/CD (SpotBugs, Semgrep, OWASP ZAP), Checkov, Espresso |
+| Databases | MySQL, MongoDB, Firestore |
+| Methods | OOP, layered architecture, UML, agile development (Scrum) |
 
-* **Languages:** Java, C# (Unity), Python, SQL, HTML/CSS
-* **Cloud & DevOps:** Google Cloud Platform (Cloud Run, Vertex AI), Firebase, Docker, Terraform
-* **Concepts:** OOP, Agile Software Development (Scrum), REST APIs
+## Selected Projects
 
-### 🚀 Featured Projects
+### [FinanceSecureApp](https://github.com/smilenow789/FinanceSecureApp)
+Spring Boot application with a complete DevSecOps pipeline. Every push runs static analysis (SAST), an infrastructure-as-code scan, a Docker build, deployment to Google Cloud Run and a dynamic security test (DAST).
+*Java, Spring Boot, GitHub Actions, Docker, Terraform, Cloud Run*
 
-#### 📱 [Study Run](https://study-run.roger-online.ch) (soon Live)
-*An educational endless runner game that turns PDF scripts into quiz questions using AI.*
-* **Tech:** Unity (C#), Python (Flask), Google Vertex AI (Gemini), Firestore, Cloud Run.
-* **Highlights:**
-    * Implemented a serverless backend architecture using **Google Cloud Run**.
-    * Integrated **Generative AI** to analyze PDFs and generate questions on the fly.
-    * Secured API costs using server-side credit checks and architecture best practices.
+### [Test Management Web App (Jakarta EE)](https://github.com/smilenow789/test-management-webapp-jakarta-ee)
+Web application for manual user acceptance tests with roles, test cases and test runs. Includes class, ER and state diagrams and a Docker setup that starts in a few steps.
+*Java, JSF/PrimeFaces, CDI, JPA/Hibernate, MySQL, Docker*
 
-#### 🌐 [My Portfolio Website](https://roger-online.ch)
-*A personal landing page to showcase my curriculum, projects, and hobbies.*
-* **Tech:** HTML5, CSS3, Bootstrap 5.
+### [Quiz Backend on Google Cloud](https://github.com/smilenow789/gcp-terraform-quiz-backend)
+Serverless backend that generates quiz questions from PDF scripts using AI. The whole infrastructure is described in Terraform, and access is secured with Firebase Auth and security rules.
+*Python, Flask, Cloud Run, Firestore, Vertex AI, Terraform*
 
-### 🎯 Current Goals
+### [Training Planner for Android](https://github.com/smilenow789/training-planner-android)
+Android app for planning and logging training weeks for strength, endurance and Cycleball, with planned-versus-actual comparison, local storage and UI tests.
+*Java, Material 3, Gson, Espresso*
 
-* 🏊🚴🏃 Train for my first **Triathlon (Olympic Distance)** – Target: **June 2026**
-* 🎓 Complete my **Bachelor's degree in Software Engineering** (2027)
-* ☁️ Deepen my knowledge in **Java**, **C#**, **Python**, **Cloud Computing** and **DevOps**
+### [Study Dashboard](https://github.com/smilenow789/study-dashboard-python)
+Console application that tracks study progress and grade average. Clean layered architecture with controller, service, repository and DTOs.
+*Python, OOP, UML*
 
-### 📫 Let's Connect
+### [IoT Data Pipeline](https://github.com/smilenow789/iot-telemetry-data-pipeline)
+Batch pipeline for sensor data covering ingestion, validation, aggregation and an HTML dashboard. Runs entirely in Docker.
+*Python, MongoDB, Docker, NGINX*
 
-If you're into **Software Engineering**, **Pragramming**, or just want to know how Cycleball actually works, feel free to reach out!
+## More Projects
 
-* 🌐 **Website:** [roger-online.ch](https://roger-online.ch)
-* 📧 **Email:** [roger@roger-online.ch](mailto:roger@roger-online.ch)
+* [Study Run](https://study-run.roger-online.ch): Learning game (endless runner) built with Unity that turns your notes and PDF scripts into quiz questions using AI.
+* [Clothing Donation Website](https://github.com/smilenow789/kleiderspende-website): Responsive website with a registration form and validation.
+* [Portfolio Website](https://roger-online.ch)
