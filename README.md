@@ -44,6 +44,6 @@ Batch-Pipeline für Sensordaten mit Einlesen, Validierung, Aggregation und HTML-
 
 ## Weitere Projekte
 
-* [Study Run](https://study-run.roger-online.ch): Lernspiel (Endless Runner) in Unity, das Notizen und PDF-Skripte mit KI in Quizfragen verwandelt.
+* [Study Run](https://www.roger-online.ch/studyrun.html): Lernspiel (Endless Runner) in Unity, das Notizen und PDF-Skripte mit KI in Quizfragen verwandelt.
 * [Kleiderspende-Website](https://github.com/smilenow789/kleiderspende-website): Responsive Website mit Anmeldeformular und Validierung.
 * [Portfolio-Website](https://roger-online.ch)
