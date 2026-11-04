@@ -1,50 +1,49 @@
-# Welcome to my GitHub
+# Willkommen auf meinem GitHub
 
-Software Engineering graduate from Switzerland with a focus on backend, cloud and DevOps.
-I am looking for a position as **application developer (60–100 %)**.
+Absolvent im Bereich Software Engineering aus der Schweiz mit Schwerpunkt auf Backend, Cloud und DevOps.
 
-Away from the keyboard I play Cycleball, which is soccer on a bicycle.
+Ausserhalb der Arbeit am Computer spiele ich Cycleball, also Fussball auf dem Velo.
 
-## Tech Stack
+## Technologien
 
-| Area | Skills |
+| Bereich | Kenntnisse |
 |---|---|
-| Languages | Java, Python, C# (Unity), SQL, HTML/CSS |
-| Backend and web | Jakarta EE (JSF, CDI, JPA/Hibernate), Spring Boot, Flask, REST, Bootstrap |
+| Sprachen | Java, Python, C# (Unity), SQL, HTML/CSS |
+| Backend und Web | Jakarta EE (JSF, CDI, JPA/Hibernate), Spring Boot, Flask, REST, Bootstrap |
 | Mobile | Android (Java, Material 3) |
-| Cloud and DevOps | Google Cloud (Cloud Run, Firestore, Firebase Auth, Vertex AI), Terraform, Docker, GitHub Actions |
-| Quality and security | SAST and DAST in CI/CD (SpotBugs, Semgrep, OWASP ZAP), Checkov, Espresso |
-| Databases | MySQL, MongoDB, Firestore |
-| Methods | OOP, layered architecture, UML, agile development (Scrum) |
+| Cloud und DevOps | Google Cloud (Cloud Run, Firestore, Firebase Auth, Vertex AI), Terraform, Docker, GitHub Actions |
+| Qualität und Sicherheit | SAST und DAST in der CI/CD-Pipeline (SpotBugs, Semgrep, OWASP ZAP), Checkov, Espresso |
+| Datenbanken | MySQL, MongoDB, Firestore |
+| Vorgehen | OOP, Schichtenarchitektur, UML, agile Entwicklung (Scrum) |
 
-## Selected Projects
+## Ausgewählte Projekte
 
 ### [FinanceSecureApp](https://github.com/smilenow789/FinanceSecureApp)
-Spring Boot application with a complete DevSecOps pipeline. Every push runs static analysis (SAST), an infrastructure-as-code scan, a Docker build, deployment to Google Cloud Run and a dynamic security test (DAST).
+Spring-Boot-Anwendung mit vollständiger DevSecOps-Pipeline. Jeder Push durchläuft statische Analyse (SAST), Prüfung der Infrastruktur als Code, Docker-Build, Deployment auf Google Cloud Run und einen dynamischen Sicherheitstest (DAST).
 *Java, Spring Boot, GitHub Actions, Docker, Terraform, Cloud Run*
 
-### [Test Management Web App (Jakarta EE)](https://github.com/smilenow789/test-management-webapp-jakarta-ee)
-Web application for manual user acceptance tests with roles, test cases and test runs. Includes class, ER and state diagrams and a Docker setup that starts in a few steps.
+### [Testmanagement-Webanwendung (Jakarta EE)](https://github.com/smilenow789/test-management-webapp-jakarta-ee)
+Web-Anwendung für manuelle Anwendertests mit Rollen, Testfällen und Testläufen. Mit Klassen-, ER- und Zustandsdiagramm sowie Docker-Start in wenigen Schritten.
 *Java, JSF/PrimeFaces, CDI, JPA/Hibernate, MySQL, Docker*
 
-### [Quiz Backend on Google Cloud](https://github.com/smilenow789/gcp-terraform-quiz-backend)
-Serverless backend that generates quiz questions from PDF scripts using AI. The whole infrastructure is described in Terraform, and access is secured with Firebase Auth and security rules.
+### [Quiz-Backend auf Google Cloud](https://github.com/smilenow789/gcp-terraform-quiz-backend)
+Serverloses Backend, das aus PDF-Skripten mit KI Quizfragen erzeugt. Die Infrastruktur wird komplett mit Terraform beschrieben, Zugriffe sind über Firebase Auth und Sicherheitsregeln abgesichert.
 *Python, Flask, Cloud Run, Firestore, Vertex AI, Terraform*
 
-### [Training Planner for Android](https://github.com/smilenow789/training-planner-android)
-Android app for planning and logging training weeks for strength, endurance and Cycleball, with planned-versus-actual comparison, local storage and UI tests.
+### [Trainingsplaner für Android](https://github.com/smilenow789/training-planner-android)
+Android-App zum Planen und Protokollieren von Trainingswochen für Kraft, Ausdauer und Radball, mit Soll-Ist-Vergleich, lokaler Speicherung und UI-Tests.
 *Java, Material 3, Gson, Espresso*
 
-### [Study Dashboard](https://github.com/smilenow789/study-dashboard-python)
-Console application that tracks study progress and grade average. Clean layered architecture with controller, service, repository and DTOs.
+### [Studien-Dashboard](https://github.com/smilenow789/study-dashboard-python)
+Konsolenanwendung, die Studienfortschritt und Notenschnitt überwacht. Saubere Schichtenarchitektur mit Controller, Service, Repository und DTOs.
 *Python, OOP, UML*
 
-### [IoT Data Pipeline](https://github.com/smilenow789/iot-telemetry-data-pipeline)
-Batch pipeline for sensor data covering ingestion, validation, aggregation and an HTML dashboard. Runs entirely in Docker.
+### [IoT-Datenpipeline](https://github.com/smilenow789/iot-telemetry-data-pipeline)
+Batch-Pipeline für Sensordaten mit Einlesen, Validierung, Aggregation und HTML-Dashboard. Läuft komplett in Docker.
 *Python, MongoDB, Docker, NGINX*
 
-## More Projects
+## Weitere Projekte
 
-* [Study Run](https://study-run.roger-online.ch): Learning game (endless runner) built with Unity that turns your notes and PDF scripts into quiz questions using AI.
-* [Clothing Donation Website](https://github.com/smilenow789/kleiderspende-website): Responsive website with a registration form and validation.
-* [Portfolio Website](https://roger-online.ch)
+* [Study Run](https://study-run.roger-online.ch): Lernspiel (Endless Runner) in Unity, das Notizen und PDF-Skripte mit KI in Quizfragen verwandelt.
+* [Kleiderspende-Website](https://github.com/smilenow789/kleiderspende-website): Responsive Website mit Anmeldeformular und Validierung.
+* [Portfolio-Website](https://roger-online.ch)
