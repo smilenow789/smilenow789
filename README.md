@@ -2,7 +2,7 @@
 
 Absolvent im Bereich Software Engineering aus der Schweiz mit Schwerpunkt auf Backend, Cloud und DevOps.
 
-Ausserhalb der Arbeit am Computer spiele ich Cycleball, also Fussball auf dem Velo.
+Ausserhalb der Arbeit am Computer spiele ich Radball, also Fussball auf dem Fahrrad 🙂
 
 ## Technologien
 
