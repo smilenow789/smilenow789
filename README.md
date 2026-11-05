@@ -1,6 +1,6 @@
 # Willkommen auf meinem GitHub
 
-Absolvent im Bereich Software Engineering aus der Schweiz mit Schwerpunkt auf Backend, Cloud und DevOps.
+Absolvent im Bereich Software Engineering aus der Schweiz mit Schwerpunkt auf Backend, Cloud und DevOps. Aktuell auf Jobsuche (ab Januar 2027) im Grossraum Zürich oder remote.
 
 Ausserhalb der Arbeit am Computer spiele ich Radball, also Fussball auf dem Fahrrad 🙂
 
